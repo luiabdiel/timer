@@ -1,10 +1,10 @@
 ```bash
 
 # Clone this repository
-$ git clone git@github.com:bfukumori/ignite-timer.git
+$ git clone https://github.com/luiabdiel/timer.git
 
 # Access the project folder in your terminal
-$ cd ignite-timer
+$ cd timer
 
 # Install the dependencies
 $ npm install
@@ -14,5 +14,3 @@ $ npm run dev
 
 
 ```
-
----
